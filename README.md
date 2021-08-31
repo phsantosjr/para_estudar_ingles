@@ -13,6 +13,8 @@ Lista de fonte de canais do YouTube, sites e apps para estudar inglês.
 
 [Espresso English](https://www.youtube.com/c/EspressoEnglishNet)
 
+[Evandro Gomide Uplift English](https://www.youtube.com/c/EvandroGomideUpliftEnglish)
+
 [Go Natural English](https://www.youtube.com/c/GoNaturalEnglish)
 
 [Inglês com Séries](https://www.youtube.com/c/Ingl%C3%AAscomS%C3%A9ries)
