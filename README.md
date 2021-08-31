@@ -1,7 +1,8 @@
 # Para estudar ingles
-Lista de fonte de canais do YouTube, sites e apps para estudar inglês.
+Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 ## Canais no YouTube
+![](https://img.shields.io/badge/Youtube-blue.svg)
 
 [BBC Learning English](https://www.youtube.com/user/bbclearningenglish)
 
@@ -35,9 +36,9 @@ Lista de fonte de canais do YouTube, sites e apps para estudar inglês.
 
 ## Sites
 
-[Focus Osztyn](https://www.focus.olsztyn.pl/)
-
 [English Page](https://www.englishpage.com/index.html)
+
+[Focus Osztyn](https://www.focus.olsztyn.pl/)
 
 [IELTS Test OnLine](https://ieltsonlinetests.com/ielts-exam-library)
 
@@ -47,8 +48,8 @@ Lista de fonte de canais do YouTube, sites e apps para estudar inglês.
 
 ## Aplicativos
 
-[Woodpecker](https://www.woodpeckerlearning.com/)
+[Duoling](https://pt.duolingo.com/)
 
 [Elsa Speak](https://elsaspeak.com/)
 
-
+[Woodpecker](https://www.woodpeckerlearning.com/)
