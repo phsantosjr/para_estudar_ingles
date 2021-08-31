@@ -46,6 +46,14 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Using English](https://www.usingenglish.com/)
 
+
+## Site que podem ser pagos
+
+[Engoo](https://engoo.com.br/)
+
+[Verbling](https://verbling.com)
+
+
 ## Aplicativos
 
 [Duoling](https://pt.duolingo.com/)
