@@ -38,6 +38,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Learn English with Let's Talk - Free English Lessons ](https://www.youtube.com/c/letstalk)
 
+[Linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
+
 [Mairo Vergara](https://www.youtube.com/user/MairoVergara)
 
 [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
