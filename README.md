@@ -1,4 +1,4 @@
-# Para estudar ingles
+# Para estudar inglês
 Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 ## Canais no YouTube
@@ -17,6 +17,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 [English Speaking Success](https://www.youtube.com/c/EnglishSpeakingSuccess)
 
 [English TV](https://www.youtube.com/channel/UCDvLvvN8o6kdW7OaN7CciXw)
+
+[English with Veronika Mark](https://www.youtube.com/c/VeronikaMark)
 
 [Espresso English](https://www.youtube.com/c/EspressoEnglishNet)
 
@@ -38,9 +40,13 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Mairo Vergara](https://www.youtube.com/user/MairoVergara)
 
+[mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
+
 [Now Native English](https://www.youtube.com/c/KevinPorter)
 
 [Rachel's English](https://www.youtube.com/c/rachelsenglish)
+
+[SmalLAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
 
 [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)
 
