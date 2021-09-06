@@ -50,7 +50,7 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [IELTS Test OnLine](https://ieltsonlinetests.com/ielts-exam-library)
 
-[Linguee](https://www.linguee.com.br/
+[Linguee](https://www.linguee.com.br/)
 
 [USA Learns](https://www.usalearns.org/)
 
