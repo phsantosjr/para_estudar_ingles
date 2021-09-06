@@ -16,6 +16,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [English Speaking Success](https://www.youtube.com/c/EnglishSpeakingSuccess)
 
+[English TV](https://www.youtube.com/channel/UCDvLvvN8o6kdW7OaN7CciXw)
+
 [Espresso English](https://www.youtube.com/c/EspressoEnglishNet)
 
 [Evandro Gomide Uplift English](https://www.youtube.com/c/EvandroGomideUpliftEnglish)
