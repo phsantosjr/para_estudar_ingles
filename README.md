@@ -4,9 +4,13 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 ## Canais no YouTube
 ![](https://img.shields.io/badge/Youtube-blue.svg)
 
+[Arnel's Everyday English](https://www.youtube.com/c/ArnelsEverydayEnglish)
+
 [BBC Learning English](https://www.youtube.com/user/bbclearningenglish)
 
 [Business English](https://www.youtube.com/c/Businessenglishpod)
+
+[Canguro English](https://www.youtube.com/c/Canguroenglish)
 
 [English in Brazil by Carina Fragozo ](https://www.youtube.com/c/CarinaFragozo)
 
@@ -20,6 +24,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Inglês com Séries](https://www.youtube.com/c/Ingl%C3%AAscomS%C3%A9ries)
 
+[Learn English with Alex [engVid]](https://www.youtube.com/c/engvidAlex)
+
 [Learn English with Bob the Canadian](https://www.youtube.com/c/LearnEnglishwithBobtheCanadian)
 
 [Learn English with EnglishClass101.com](https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg)
@@ -32,6 +38,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Now Native English](https://www.youtube.com/c/KevinPorter)
 
+[Rachel's English](https://www.youtube.com/c/rachelsenglish)
+
 [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)
 
 ## Sites
@@ -41,6 +49,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 [Focus Osztyn](https://www.focus.olsztyn.pl/)
 
 [IELTS Test OnLine](https://ieltsonlinetests.com/ielts-exam-library)
+
+[Linguee](https://www.linguee.com.br/
 
 [USA Learns](https://www.usalearns.org/)
 
@@ -56,7 +66,7 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 ## Aplicativos
 
-[Duoling](https://pt.duolingo.com/)
+[Duolingo](https://pt.duolingo.com/)
 
 [Elsa Speak](https://elsaspeak.com/)
 
