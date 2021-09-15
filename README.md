@@ -12,6 +12,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Canguro English](https://www.youtube.com/c/Canguroenglish)
 
+[Daily English](https://www.youtube.com/user/DailyEasyEnglish)
+
 [English in Brazil by Carina Fragozo ](https://www.youtube.com/c/CarinaFragozo)
 
 [English Speaking Success](https://www.youtube.com/c/EnglishSpeakingSuccess)
@@ -26,7 +28,11 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [Go Natural English](https://www.youtube.com/c/GoNaturalEnglish)
 
+[https://www.youtube.com/user/ingles200h](https://www.youtube.com/user/ingles200h)
+
 [Inglês com Séries](https://www.youtube.com/c/Ingl%C3%AAscomS%C3%A9ries)
+
+[Inglês na Ponta da Língua](https://www.youtube.com/channel/UCe5YeBiQwkxEMYhvHwfuinw)
 
 [Learn English with Alex [engVid]](https://www.youtube.com/c/engvidAlex)
 
@@ -44,6 +50,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 
 [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
 
+[Mr Teacher Paulo](https://www.youtube.com/user/MrTeacherPaulo)
+
 [Now Native English](https://www.youtube.com/c/KevinPorter)
 
 [Rachel's English](https://www.youtube.com/c/rachelsenglish)
@@ -53,6 +61,12 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 [SmalLAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
 
 [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)
+
+[Teacher Fernanda](https://www.youtube.com/channel/UCr8lnFsxBsEWM7Ar6ULrigw)
+
+[Tecla SAP com Ulisses Carvalho](https://www.youtube.com/channel/UC17UIAl4Ipm7Qf4IBkmkjwQ)
+
+[Tia do Inglês](https://www.youtube.com/c/TiaDoIngl%C3%AAs)
 
 ## Sites
 
