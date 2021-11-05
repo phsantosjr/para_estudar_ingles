@@ -97,3 +97,8 @@ Lista de fontes de canais do YouTube, sites e apps para estudar inglês.
 [Elsa Speak](https://elsaspeak.com/)
 
 [Woodpecker](https://www.woodpeckerlearning.com/)
+
+
+## Professores
+
+[Vitória Naldi](https://instagram.com/teachervitorianaldi)
